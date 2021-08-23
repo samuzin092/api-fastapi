@@ -1,0 +1,67 @@
+[
+	{
+		"id": 1,
+		"name": "Ração para cachorro",
+		"price": 50.00,
+		"minimun": 10,
+		"amount-per-package": 2,
+		"max-availability": 50000
+	},
+	{
+		"id": 2,
+		"name": "Ração para coelho",
+		"price": 30.00,
+		"minimun": 2,
+		"amount-per-package": 2,
+		"max-availability": 70000
+	},
+	{
+		"id": 3,
+		"name": "Refrigerante",
+		"price": 1.00,
+		"minimun": 120,
+		"amount-per-package": 12,
+		"max-availability": 150000
+	},
+	{
+		"id": 4,
+		"name": "Feijão preto",
+		"price": 4.00,
+		"minimun": 24,
+		"amount-per-package": 12,
+		"max-availability": 12000
+	},
+	{
+		"id": 5,
+		"name": "Feijão carioca",
+		"price": 6.00,
+		"minimun": 24,
+		"amount-per-package": 12,
+		"max-availability": 12000
+	},
+	{
+		"id": 6,
+		"name": "Arroz agulha",
+		"price": 4.00,
+		"minimun": 40,
+		"amount-per-package": 10,
+		"max-availability": 300
+	},
+	{
+		"id": 7,
+		"name": "Ração para gato",
+		"price": 50.00,
+		"minimun": 40,
+		"amount-per-package": 7,
+		"max-availability": 50000
+	},
+	{
+		"id": 8,
+		"name": "Pão de forma",
+		"price": 4.50,
+		"minimun": 200,
+		"amount-per-package": 20,
+		"max-availability": 400000
+	}
+	
+]
