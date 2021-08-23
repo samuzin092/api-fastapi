@@ -6,7 +6,7 @@ $ source myenv/bin/activate
 
 pip install -r requirements.txt
 
-# iniciar servidor
+# start server
 uvicorn server:app --reload
 uvicorn server:app --reload --reload-dir=src
 
